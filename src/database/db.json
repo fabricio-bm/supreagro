@@ -1,0 +1,21 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Antônio Marques"
+    },
+    {
+      "id": 2,
+      "nome": "Elaine de Souza"
+    }
+  ],
+  "produtos": [
+    {
+    }
+  ],
+  "categorias": [
+    {
+    }
+  ]
+}
+

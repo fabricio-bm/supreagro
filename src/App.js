@@ -1,6 +1,16 @@
-import SupreAgro2 from './SupreAgro 2.png'
 import './App.css';
-import { MegaMenu } from 'primereact/megamenu';
+import {MegaMenu} from 'primereact/megamenu';
+import { Image } from 'primereact/image';
+
+//theme
+import "primereact/resources/themes/lara-light-indigo/theme.css";
+
+//core
+import "primereact/resources/primereact.min.css";
+import {BrowserRouter, Route, Routes} from "react-router-dom";
+//icons
+import "primeicons/primeicons.css";
+import CadastrarCliente from "./clientes/CadastrarCliente";
 
 function App() {
     return (
